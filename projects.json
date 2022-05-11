@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Elon Musk's Twitter",
+      "live": "https://glacial-basin-38209.herokuapp.com/",
+      "git": "https://github.com/Arishamays1/Project_2",
+      "image": "https://media-exp1.licdn.com/dms/image/C5622AQGN7XPyloQikA/feedshare-shrink_800/0/1651779713314?e=1655337600&v=beta&t=d_yZ9OjvVdPv5wWRMvUiERIAsncbDIIv-fANbx1Yc4U"
+    },
+    {
+      "name": "Beyonce's Assistant Survival Game",
+      "live": "https://arishamays1.github.io/Project-1-Beyonce-s-Assistant-Survival-Game/",
+      "git": "https://github.com/Arishamays1/Project-1-Beyonce-s-Assistant-Survival-Game",
+      "image": "https://art.pixilart.com/82bb96bef58b9fd.png"
+    },
+    {
+        "name": "Beyonce's Assistant Survival Game",
+        "live": "https://pokedex-application1.herokuapp.com/pokemon",
+        "git": "https://github.com/Arishamays1/Generation-1-Pokedex",
+        "image": "http://img.pokemondb.net/artwork/mewtwo.jpg"
+    }
+  ]
